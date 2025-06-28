@@ -184,7 +184,7 @@ section{
 }
 
 .typewriter span::before{
-    content: "Developer";
+    content: "Data Analyst";
     animation: words 15s infinite;
 }
 
@@ -208,7 +208,7 @@ section{
         content: "Developer";
     }
     34%, 66%{
-        content: "Research and Advocacy";
+        content: "Asisten laboratorium Sistem Informasi";
     }
 }
 
